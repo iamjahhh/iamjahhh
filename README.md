@@ -9,6 +9,8 @@
   I am currently pursuing a <b>Bachelor of Science in Computer Science</b> at <b>Quezon City University</b>, and currently in my <b>sophomore</b> year.
 </p>
 
+[Visit my portfolio!](https://iamjah.vercel.app/)
+
 ### My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjahhh&layout=compact&theme=dark&hide_border=true)
